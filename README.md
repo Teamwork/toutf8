@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Teamwork/toutf8.svg?branch=master)](https://travis-ci.org/Teamwork/toutf8)
+[![Build Status](https://travis-ci.com/Teamwork/toutf8.svg?branch=master)](https://travis-ci.com/Teamwork/toutf8)
 [![codecov](https://codecov.io/gh/Teamwork/toutf8/branch/master/graph/badge.svg)](https://codecov.io/gh/Teamwork/toutf8)
 [![GoDoc](https://godoc.org/github.com/Teamwork/toutf8?status.svg)](https://godoc.org/github.com/Teamwork/toutf8)
 
